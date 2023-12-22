@@ -2,6 +2,8 @@
 
 ## Simulation with pseudo multi-threading
 
+### KACZMARSKI Lucas and GOULAMHOUSSEN Sunil
+
 ## Installation
 
 - Pull the code from github
